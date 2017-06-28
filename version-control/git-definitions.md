@@ -6,3 +6,4 @@
 * What is a branch and why would you use one? A branch is a way of working on a file while maintaining an original copy for safety purposes. 
 * What is a commit? What makes a good commit message? Commit is timestamping the file. It is important to be specific with the change made.
 * What is a merge conflict? This is not being able to integrate the changes made back into the original.
+* TYLER SAVE ME!!
