@@ -1,0 +1,27 @@
+#octopus {
+  margin: auto;
+  padding-top: 5px;
+  display:block;
+
+
+
+}
+
+#hat {
+position:relative;
+left:300px;
+top:60px;
+z-index: 1;
+
+
+}
+#glasses {
+  position: relative;
+  left:490px;
+  z-index: 2;
+  top:170px;
+
+
+
+
+}
