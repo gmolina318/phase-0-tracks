@@ -8,14 +8,32 @@ cite {
   display: block;
   margin-top: 10px;
 }
-
+#external-links {
+  display: inline-block;
+  vertical-align: top;
+  width:20%;
+}
 #external-links ul {
   list-style-type: none;
   padding-left: 0px;
+
+
 }
 
+
+
+
+Main {
+  width: 756px;
+  display:inline-block;
+
+
+
+}
+
+
 /* you're welcome to edit the
-image, figure, and figcaption CSS if you'd like, 
+image, figure, and figcaption CSS if you'd like,
 but it's optional! */
 img {
   width: 100%;
@@ -29,4 +47,20 @@ figure {
 figcaption {
   font-style: italic;
   text-align: right;
+}
+body {
+  max-width: : 960px;
+}
+
+@media screen and (max-width: 500px) {
+  body {
+    font-size:x-small;
+
+  }
+}
+
+@media screen and (max-width: 500px) {
+
+    body { width: 100% }
+
 }
