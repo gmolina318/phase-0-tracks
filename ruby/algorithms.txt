@@ -1,0 +1,14 @@
+Getting Dressed
+
+Get Dressed
+	if temperature is hot (80+ degrees)
+		put on shorts
+		put on t-shirt
+	else if is warm(60+degrees but less than 80)
+		put on white shirt
+		put on blue-jeans
+	else  it is cold(less than 60 degrees)
+		put on sweatshirt
+		put on blue jeans
+	
+		
